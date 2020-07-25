@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+html {
+	background-color: #111111;
+	color: #DDDDDD;
+	font-family: Balsamiq Sans, cursive;
+}
+#left {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	left: 0;
+	background-color: #333333;
+	z-index: 10;
+}
+#right {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	right: 0;
+	background-color: #333333;
+	overflow-y: auto;
+}
+h2, #coords, #coords2 {
+	text-align: center;
+}
+#mapbg, #mapborders, #maptext, #mapbg2 {
+	position: absolute; 
+	width: 1400px;
+	height: 1400px; 
+}
+#mapbg, #mapbg2 {
+	z-index: -3;
+	display: block;
+}
+#mapborders {
+	z-index: -2;
+}
+#maptext {
+	z-index: -1;
+}
+#map {
+	position: relative;
+	width: calc(100% - 400px);
+	height: 100%;
+	left: 200px;
+}
+#mainheader {
+	position: fixed;
+	width: calc(100% - 600px);
+	background-color: #444444;
+	left: 300px;
+	text-align: center;
+	z-index: 1;
+}
+button {
+	font-family: Balsamiq Sans, cursive;
+	font-size: 20px;
+	margin: 4px;
+	background-color: #222222AA;
+	border: solid 5px #111111AA;
+	border-radius: 5px;
+	color: #DDDDDD;
+}

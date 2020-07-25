@@ -1,0 +1,51 @@
+<html>
+<head>
+	<title>
+		SGS
+	</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	</link>
+</head>
+<body>
+	<div id="left">
+		<h2>
+			Instructions
+		</h2>
+		Use the scrollbars to navigate. You can also do CTRL+F to easily find areas.<br>
+		However, do not zoom in/out; it breaks this website. However, if you refresh after you zoom, then it works fine.
+		<button onclick="coords()">Go to Coords</button>
+		<button onclick="geo()">Geographical Map</button>
+		<button onclick="pol()">Political Map</button>
+	</div>
+	<div id="right">
+		<h2>
+			Key
+		</h2>
+		<h3 id ="coords">0,0</h3>
+		<p>(x,z coords)</p>
+		<p id ="coords2">0,0</p>
+		<p>(for canvas editing)</p>
+		<p>Stars: Capitals</p>
+		<p>Filled Dots: Cities</p>
+		<p>Hollow Dots: Towns</p>
+		<p>Squares: Outposts</p>
+		<p>Filled Areas: Claims</p>
+		<p>Striped Areas: Joint Claims</p>
+		<h2>
+			Changelog
+		</h2>
+		<p>6/19/2020: Map's framework created.</p>
+		<p>7/25/2020: Map has finally found a use.</p>
+	</div>
+	<h1 id="mainheader">
+		Stranomegaium Cartography Service
+	</h1>
+	<div id="map" style="overflow: scroll;">
+		<img id="mapbg" src="mapv1.svg"></img>
+		<img id="mapbg2" src="blankmapthing.png"></img>
+		<span style="position: fixed; left: calc(50% - 11px); top: calc(50% - 16px); z-index: 7;">+</span>
+	</div>
+	<script src="index.js">
+	</script>
+</body>
+</html>
