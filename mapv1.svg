@@ -64,7 +64,7 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="1.8153846"
-     inkscape:cx="277.31403"
+     inkscape:cx="392.97748"
      inkscape:cy="327.87834"
      inkscape:window-x="121"
      inkscape:window-y="-8"
@@ -111,15 +111,15 @@
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:13.45372009px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33634296"
-     x="191.22066"
-     y="200.90715"
+     style="font-style:normal;font-weight:normal;font-size:14.95695782px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3739239"
+     x="191.19569"
+     y="201.90245"
      id="text34428-7"><tspan
        sodipodi:role="line"
        id="tspan34426-8"
-       x="191.22066"
-       y="200.90715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.33634296">Pravagrz</tspan></text>
+       x="191.19569"
+       y="201.90245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.3739239">Pagvars</tspan></text>
   <path
      style="fill:none;stroke:#ff0303;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 1;fill-opacity:1;stroke-dashoffset:10"
      d="m 205.07594,229.81656 -0.97376,-5.25836 -4.6741,-3.70033 1.20835,-5.8537 4.05001,-0.76793 12.2695,3.24441 3.70033,-1.49162 7.20589,-1.36328 4.80469,2.14229 5.51728,-3.31082 3.50557,-2.33704 6.03737,-1.55803 2.14229,-3.11607 3.89508,4.35324 0.97377,4.02118 0.97377,3.43917 6.51361,0.87113 4.97688,4.45363 2.08683,2.33617 6.354,-0.19387 h 4.60769 l 4.08983,1.36327 2.14229,-1.94754 3.11607,-2.72655 4.47934,-3.31082 5.45311,-1.75279 6.03738,-0.38951 2.5318,3.89509 -0.33405,5.8435 4.03437,2.72567 -0.77901,5.84262 -1.94754,2.33705 -3.57198,1.55803 -2.66015,5.45311 2.90042,1.64448 4.11072,2.44536 5.64787,-1.55804 6.17691,-1.36327 1.02899,5.0636 -3.50558,3.70033 h -9.34819 l -2.72655,4.08983 1.94754,4.08983 1.75278,5.84486 -0.97377,5.25612 -3.11606,3.50557 1.16852,3.89508 2.58726,2.14318 3.64487,3.8942 -0.19475,5.0636 -1.94754,2.33705 -3.31082,2.5318 5.64786,0.52009 -3.11606,3.37499 -2.5318,3.50557 -4.7405,0.97377 -4.41294,2.92131 2.92131,2.5318 -1.82143,2.92131 -7.13725,-1.94754 -2.33705,-4.86885 -4.37103,0.56338 -3.02962,3.72121 -5.25836,-1.94754 -5.45311,0.97377 -2.85714,3.50557 -3.37499,-1.75278 -2.66239,-2.1423 -9.02285,0.19476 -2.92131,4.67409 -6.05737,0.20849 4.24489,-3.5193 -3.64735,-0.77902 -3.3041,1.36328 -1.88705,3.48851 -4.80547,0.99083 -4.99272,-1.36328 -3.91507,-2.51807 -5.04361,-1.76652 -5.00615,-0.38951 -5.45087,0.38951 -3.95477,-1.75278 0.58426,-3.89508 6.01649,-0.2812 1.18941,-4.00339 -0.38951,-5.45311 -3.31082,-3.31082 -2.03398,-3.09517 -2.83487,1.34238 1.23493,-4.47934 6.29631,-1.36328 7.92073,1.36328 4.60769,-0.38951 1.36328,-6.03737 -0.19476,-6.23213 0.97377,-7.40065 -3.50557,-2.92131 -2.72655,-3.31082 -7.98491,0.77902 0.97376,-4.08983 10.51672,0.19475 2.33705,-1.94754 -0.58427,-6.03737 -5.13001,-1.75279 -6.16572,-0.97377 -3.11606,-2.7288 2.14229,-6.03513 6.03738,-1.36328 -6.81639,-1.55803 -4.80691,-0.19475 -5.12555,-0.58426 z"
@@ -137,4 +137,60 @@
        y="264.57858"
        id="tspan34391"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38946354;stroke-opacity:1">TGPUCSZ</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.29408589"
+     id="path856"
+     sodipodi:sides="5"
+     sodipodi:cx="222.4426"
+     sodipodi:cy="191.50749"
+     sodipodi:r1="2.3038268"
+     sodipodi:r2="1.1519134"
+     sodipodi:arg1="0.96210702"
+     sodipodi:arg2="1.5904256"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 223.75991,193.39755 -1.33992,-0.73837 -1.36787,0.68521 0.28817,-1.50251 -1.07437,-1.08918 1.51802,-0.19024 0.70388,-1.35835 0.65002,1.38493 1.50938,0.24967 -1.11629,1.04618 z"
+     inkscape:transform-center-x="-0.013974826"
+     inkscape:transform-center-y="-0.20667071" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4.08278513px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10206962"
+     x="225.39935"
+     y="192.97806"
+     id="text34428-7-7"><tspan
+       sodipodi:role="line"
+       id="tspan34426-8-6"
+       x="225.39935"
+       y="192.97806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.10206962">Cloberdon</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.29408589"
+     id="path856-9"
+     sodipodi:sides="5"
+     sodipodi:cx="426.16832"
+     sodipodi:cy="213.93547"
+     sodipodi:r1="2.3038268"
+     sodipodi:r2="1.1519134"
+     sodipodi:arg1="0.96210702"
+     sodipodi:arg2="1.5904256"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 427.48565,215.82553 -1.33992,-0.73837 -1.36787,0.68521 0.28816,-1.50251 -1.07436,-1.08918 1.51802,-0.19024 0.70387,-1.35835 0.65002,1.38493 1.50939,0.24967 -1.11629,1.04618 z"
+     inkscape:transform-center-x="-0.013974826"
+     inkscape:transform-center-y="-0.20667071" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:4.08278513px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10206962"
+     x="429.12506"
+     y="215.40604"
+     id="text34428-7-7-0"><tspan
+       sodipodi:role="line"
+       id="tspan34426-8-6-0"
+       x="429.12506"
+       y="215.40604"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.10206962">Beanoil</tspan></text>
 </svg>
