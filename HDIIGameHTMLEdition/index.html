@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title>
+		SGS
+	</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	</link>
+</head>
+<body>
+	<div id="left">
+		<h2>
+			Instructions
+		</h2>
+		Use the arrow keys to move.<br>
+		Pressing the key corresponding to an item will equip that item.
+		Numbers on the blocks indicate how much health that block has. Click on the block to "damage" it.
+		<h2>
+			Depth
+		</h2>
+		<span id="depth">0 m</span>
+		<h2>
+			Items
+		</h2>
+		<span id="pick">Bare Hands (1 damage, costed 0 coins)</span><br>
+		<h2>
+			Shop
+		</h2>
+		<span id="coins">You have 0 coins to spend.</span><br><br>
+		<span id="pickupgrades">Dirt Shovel (1.25 damage, costs 2.5 coins)</span><br>
+		<button onclick="upgrade('pick')">Buy now!</span>
+	</div>
+	<div id="right">
+		<h2>
+			Changelog
+		</h2>
+		<p>7/26/2020 - 7/27/2020: Basic features of game ported from the Scratch version. Currently, this is more of a tech demo than it is a game.</p>
+	</div>
+	<h1 id="mainheader">
+		How Deep Is It: The Game (ported from Scratch)
+	</h1>
+	<div id="map">
+		<div id="map2">
+			<div id="blocks">
+			</div>
+		</div>
+		<div id="coords">
+			._.
+		</div>
+	</div>
+	<script src="index.js">
+	</script>
+</body>
+</html>
