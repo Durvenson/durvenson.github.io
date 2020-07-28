@@ -129,7 +129,7 @@ function upgrade(item) {
 }
 var coins = 0;
 var picklevel = 0;
-var picks = [[1,"Bare Hands",0],[1.25,"Dirt Shovel",2.5],[1.5,"Dirt Pickaxe",10],[1.75,"Soft Rock Shovel",33.75],[2.5,"Soft Rock Pickaxe",68.87]]
+var picks = [[1,"Bare Hands",0],[1.25,"Dirt Shovel",2.5],[1.5,"Dirt Pickaxe",10],[1.75,"Shovel",33.75],[2.5,"Soft Rock Pickaxe",68.87],[4.5,"Stone Pickaxe",223.14],[8.5,"Pickaxe",796.14]]
 var breakable = true;
 var depthtable = [16,15,13,10,6,5]
 var raritytable = [{"stone": 0},{"dirt": 0, "stone": 0.25},{"dirt": 0, "stone": 0.5},{"dirt": 0, "stone": 0.75},{"dirt": 0},{"grass":0,"dirt":0.9}]
