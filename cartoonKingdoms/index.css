@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 html {
 	background: repeating-linear-gradient(45deg,#404d9c,#404d9c 10px,#263278 10px,#363278 20px);
 	color: #DDDDDD;
-	font-family: Balsamiq Sans, cursive;
+	font-family: Medieval Sharp, cursive;
 	overflow: hidden;
 }
 button {
-	font-family: Balsamiq Sans, cursive;
+	font-family: Medieval Sharp, cursive;
 	font-size: 20px;
 	margin: 4px;
 	background-color: #222288FF;
