@@ -121,8 +121,8 @@ function upgrade(item) {
 		if (coins >= picks[picklevel+1][2]) {
 			picklevel = picklevel + 1;
 			coins = coins - picks[picklevel][2];
-			document.getElementById("pick").innerHTML = picks[picklevel][1] + " (" + picks[picklevel][0] + " damage, costed " + picks[picklevel][2] + " coins )";
-			document.getElementById("pickupgrades").innerHTML = picks[picklevel+1][1] + " (" + picks[picklevel+1][0] + " damage, costs " + picks[picklevel+1][2] + " coins )";
+			document.getElementById("pick").innerHTML = picks[picklevel][1] + " (" + picks[picklevel][0] + " block damage, costed " + picks[picklevel][2] + " coins )";
+			document.getElementById("pickupgrades").innerHTML = picks[picklevel+1][1] + " (" + picks[picklevel+1][0] + " block damage, costs " + picks[picklevel+1][2] + " coins )";
 			document.getElementById("coins").innerHTML = "You have " + coins + " coins to spend.";
 		}
 	}

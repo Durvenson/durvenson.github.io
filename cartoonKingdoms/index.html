@@ -1,0 +1,39 @@
+<head>
+	<title>
+		Doodle Kingdoms thing
+	</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	</link>
+</head>
+<body>
+	<audio id="audio">
+		<source src="civsong.mp3" type="audio/mp3">
+	</audio>
+	<div class="leftinfo">
+		<h2>
+			CHANGELOG
+		</h2>
+		<p>7/30/2020: Title screen made.</p>
+	</div>
+	<img src="logo.svg" width="400px" height="300px" class="center">
+	<img src="" width="400px" height="300px" class="right" id="img"><br>
+	<button onclick="audio.play()" class="center">
+		Enable Audio
+	</button><br>
+	<button onclick="noExist()" onmouseenter='select("singleplayer")' class="center">
+		Singleplayer
+	</button><br>
+	<button onclick="noExist()" onmouseenter='select("multiplayer")' class="center">
+		Multiplayer
+	</button><br>
+	<button onclick="noExist()" onmouseenter='select("tutorial")' class="center">
+		Tutorial
+	</button><br>
+	<button onclick="noExist()" onmouseenter='select("civilizations")' class="center">
+		Civilizations
+	</button><br>
+	<button onclick='window.location.href = "https://scratch.mit.edu/studios/26981149/comments/"'  onmouseenter='select("studio")' class="center">
+		Scratch Studio
+	</button>
+	<script src="index.js"></script>
+</body>
