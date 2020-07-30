@@ -2,11 +2,11 @@
 html {
 	background: repeating-linear-gradient(45deg,#404d9c,#404d9c 10px,#263278 10px,#363278 20px);
 	color: #DDDDDD;
-	font-family: Medieval Sharp, arial;
+	font-family: MedievalSharp, arial;
 	overflow: hidden;
 }
 button {
-	font-family: Medieval Sharp, arial;
+	font-family: MedievalSharp, arial;
 	font-size: 20px;
 	margin: 4px;
 	background-color: #222288FF;
