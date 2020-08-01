@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+html {
+	background-color: #111111;
+	color: #DDDDDD;
+	font-family: Balsamiq Sans, cursive;
+	overflow: hidden;
+}
+#left {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	left: 0;
+	background-color: #333333;
+	z-index: 10;
+	overflow-y: auto;
+}
+#right {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	right: 0;
+	background-color: #333333;
+	z-index: 10;
+	overflow-y: auto;
+}
+h2, #coords, #coords2 {
+	text-align: center;
+}
+#map {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+#map2 {
+	position: absolute;
+	width: 1400px;
+	height: 450px;
+	background-color: #224488;
+	z-index: 0;
+	overflow: hidden;
+}
+#coords {
+	background-color: #882211;
+	position: fixed; 
+	left: 50%;
+	top: 50%; 
+	z-index: 7;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+}
+#mainheader {
+	position: fixed;
+	width: calc(100% - 600px);
+	background-color: #444444;
+	left: 300px;
+	text-align: center;
+	z-index: 1;
+}
+#blocks {
+	position: absolute;
+	background-color: #224488;
+	z-index: 0;
+}
+button {
+	font-family: Balsamiq Sans, cursive;
+	font-size: 20px;
+	margin: 4px;
+	background-color: #222222AA;
+	border: solid 5px #111111AA;
+	border-radius: 5px;
+	color: #DDDDDD;
+}
+.block {
+	position: absolute; 
+	z-index: 6;
+	width: 50px;
+	height: 50px;
+	margin: 0px;
+	border-radius: 0;
+	font-size: 10px;
+	background-color: #FFF;
+}
+.dirt {
+	background-color: #884411;
+}
+.grass {
+	background-color: #118822;
+}
+.stone {
+	background-color: #444444;
+}
