@@ -45,7 +45,7 @@
      id="namedview4"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="2.1123696"
+     inkscape:zoom="8.4494785"
      inkscape:cx="392.74942"
      inkscape:cy="302.25028"
      inkscape:window-x="119"
@@ -8515,13 +8515,42 @@ gg==
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:15.95195389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39879882;stroke-opacity:1"
-     x="341.8085"
-     y="334.47742"
+     style="font-style:normal;font-weight:normal;font-size:13.74139023px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34353474;stroke-opacity:1"
+     x="348.3847"
+     y="329.98376"
      id="text841-4"><tspan
        sodipodi:role="line"
        id="tspan839-7"
-       x="341.8085"
-       y="334.47742"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39879882;stroke-opacity:1">Tevgiev</tspan></text>
+       x="348.3847"
+       y="329.98376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34353474;stroke-opacity:1">Tevgiev</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path1095"
+     sodipodi:sides="5"
+     sodipodi:cx="367.35995"
+     sodipodi:cy="321.92169"
+     sodipodi:r1="2.0084746"
+     sodipodi:r2="1.0042373"
+     sodipodi:arg1="0.78539816"
+     sodipodi:arg2="1.4137167"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 368.78016,323.3419 -1.26311,-0.42833 -1.06892,0.79769 0.017,-1.33365 -1.08896,-0.77011 1.27364,-0.39591 0.39591,-1.27365 0.77011,1.08897 1.33365,-0.017 -0.79769,1.06893 z"
+     inkscape:transform-center-x="11.35819"
+     inkscape:transform-center-y="-15.219013"
+     transform="rotate(9.3192291,298.34631,416.7106)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.81685472px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09542139;stroke-opacity:1"
+     x="376.97702"
+     y="339.42307"
+     id="text841-4-0"><tspan
+       sodipodi:role="line"
+       id="tspan839-7-3"
+       x="376.97702"
+       y="339.42307"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09542139;stroke-opacity:1">Kingus</tspan></text>
 </svg>
